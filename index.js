@@ -14,3 +14,10 @@ let num3 = 12;
 let num4 = 8;
 
 let mod = num3 % num4;
+
+
+// math max
+
+let myArray = [1, 2, 10, 20];
+let max = Math.max(...myArray);
+// console.log(max)
