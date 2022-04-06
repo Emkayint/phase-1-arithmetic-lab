@@ -7,3 +7,8 @@ let multiply = num1 * num2;
 
 //  test 2
 let random = Math.floor(Math.random() * 10) + 1;
+
+// test 3
+
+let num3 = 12;
+let num4 = 3;
