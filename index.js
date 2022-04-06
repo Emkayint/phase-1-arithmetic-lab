@@ -11,4 +11,6 @@ let random = Math.floor(Math.random() * 10) + 1;
 // test 3
 
 let num3 = 12;
-let num4 = 3;
+let num4 = 8;
+
+let mod = num3 % num4;
